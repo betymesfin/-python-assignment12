@@ -1,0 +1,5 @@
+1) Static visualizations show fixed data and are great for reports or presentations, but they can’t be explored further. 
+   Interactive visualizations, on the other hand, let users zoom, filter, and explore data in real time, making insights easier to find.
+2) Dashboards are powerful because they display multiple visualizations together and update instantly as new data comes in.
+3) Plotly and Dash make data communication better by allowing users to interact with charts directly, customize what they see, 
+   and share clear, dynamic insights in professional settings.
